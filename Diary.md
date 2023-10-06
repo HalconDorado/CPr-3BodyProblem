@@ -6,3 +6,4 @@
 - Installed git
 - Set up project folder and testing files
 - First commit
+- Began developing pseudocode
