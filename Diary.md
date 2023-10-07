@@ -7,3 +7,10 @@
 - Set up project folder and testing files
 - First commit
 - Began developing pseudocode
+- Began researching different integration methods
+    - Romberg's Method, RK4, and RK45
+    - Padé approximant
+
+### Saturday 23-10-07 ###
+
+- Developed pseudocode
