@@ -14,3 +14,7 @@
 ### Saturday 23-10-07 ###
 
 - Developed pseudocode
+
+### Wednseday 23-10-12 ###
+
+- Wrote initialization code and began testing of integration

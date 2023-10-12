@@ -7,11 +7,12 @@ Constants {
     - M_E: 
     - M_M: 
 }
-Variables {
+Variables/Lists {
     - E pos
     - M pos
     - ES distance
     - MS distance
+    - Buffer of all above vars
     - a: Step size (dynamic or static?)
 }
 Vectors {
