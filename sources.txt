@@ -3,5 +3,7 @@ Poster:
 - A First Course in Computational Physics - Paul L. DeVries
 
 Report:
+- Introduction to Celestial Mechanics - Richard Fitzpatrick
+- A First Course in Computational Physics - Paul L. DeVries
 - Modern Astrodynamics - Pini Gurfil
 - Introduction to Celestial Mechanics - Richard Fitzpatrick
