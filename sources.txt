@@ -1,3 +1,8 @@
+Presentation:
+- 
+- 
+- 
+
 Poster:
 - Introduction to Celestial Mechanics - Richard Fitzpatrick
 - A First Course in Computational Physics - Paul L. DeVries
