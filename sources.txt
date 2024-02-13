@@ -1,6 +1,6 @@
 Presentation:
-- 
-- 
+- Colombo et. al. 1969
+- JPL Planetary Satellite Mean Elements: https://ssd.jpl.nasa.gov/sats/elem/
 - 
 
 Poster:
